@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Weapons
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: d60bbc4d1432228489e35ced51bd1d2c, type: 3}
+    - {fileID: 2800000, guid: 960a47ad9509af641a14409765bbabe5, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -4924065256469680006, guid: d60bbc4d1432228489e35ced51bd1d2c, type: 3}
+  - {fileID: -4107469028111699786, guid: d60bbc4d1432228489e35ced51bd1d2c, type: 3}
+  - {fileID: -1022324140503699289, guid: d60bbc4d1432228489e35ced51bd1d2c, type: 3}
+  - {fileID: 946132551445127754, guid: d60bbc4d1432228489e35ced51bd1d2c, type: 3}
+  - {fileID: -4029819251187114856, guid: d60bbc4d1432228489e35ced51bd1d2c, type: 3}
+  - {fileID: -2505125261248690692, guid: d60bbc4d1432228489e35ced51bd1d2c, type: 3}
+  - {fileID: 21300000, guid: 960a47ad9509af641a14409765bbabe5, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - weapon_4
+  - weapon_5
+  - weapon_2
+  - weapon_3
+  - weapon_0
+  - weapon_1
+  - bow
+  m_RenderDataMap: {}
+  m_Tag: Weapons
+  m_IsVariant: 0

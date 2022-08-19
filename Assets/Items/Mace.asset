@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7217fba2f4ef844e982d6a1327d4e0f, type: 3}
+  m_Name: Mace
+  m_EditorClassIdentifier: 
+  displayName: Mace
+  description: Heavy iron mace
+  icon: {fileID: -4107469028111699786, guid: d60bbc4d1432228489e35ced51bd1d2c, type: 3}
+  maxStackSize: 1
+  equipPrefab: {fileID: 911410104402042412, guid: c96011288232cdb4db173dee2d197bfa, type: 3}
+  damage: 3
+  range: 1.2
+  attackRate: 1
